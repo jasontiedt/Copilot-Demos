@@ -12,6 +12,10 @@ export function fullTitle(book: Book): string {
     if (book.subtitle) {
         return `${book.title}: ${book.subtitle}`;
     }
+
+    if (book.id ===  "") {
+        return `${book.title}: ${book.subtitle}`;
+    }
     
     return book.title;
 }
