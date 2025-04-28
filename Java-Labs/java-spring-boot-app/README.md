@@ -11,9 +11,13 @@ This demo contains a partially complete Java Spring Boot REST API. The applicati
 - One test case
 
 **To be Completed in demo:**
-- Remaining three endpoints outlined in the repository interface class
+- Remaining three endpoints **outlined in the repository interface class**
 - Validation for endpoint calls
 - Remaining test cases
+- Create Swagger file for API
+- Find more unit tests - use Copilot to find edge cases, or other common tests
+- Add a new function in Repository Interface of your choice.  Include updates to Contact Object, API, and unit tests
+- Convert Unit tests to xUnit tests
 
 ### What does this demo show?
 - Copilot takes into account neighboring or related files within a project
