@@ -18,10 +18,10 @@ Inside the `.instructions` folder you will find a number of markdown files that 
 
 Filename | Description
 --- | ---
-[1. setup.md](</.instructions/1. setup.md>) | Instructions for installing the GitHub Copilot VS Code extension and joining the GitHub Copilot trial.
-[2. getting started.md](</.instructions/2. getting started.md>) | Instructions for getting started with GitHub Copilot.
-[3. challenge exercises.md](</.instructions/3. challenge exercises.md>) | Challenge exercises for participants to complete.
-[4. additional resources.md](</.instructions/4. additional resources.md>) | Additional resources for participants to explore after the workshop.
+[1. setup.md](https://github.com/jasontiedt/Copilot-Demos/blob/main/Terraform-Labs/copilot-terraform-main/.instructions/1.%20setup.md) | Instructions for installing the GitHub Copilot VS Code extension and joining the GitHub Copilot trial.
+[2. core exercises.md](https://github.com/jasontiedt/Copilot-Demos/blob/main/Terraform-Labs/copilot-terraform-main/.instructions/2.%20core%20exercises.md) | Instructions for getting started.
+[3. challenge exercises.md](https://github.com/jasontiedt/Copilot-Demos/blob/main/Terraform-Labs/copilot-terraform-main/.instructions/3.%20challenge%20exercises.md) | Challenge exercises for participants to complete.
+[4. additional resources.md](https://github.com/jasontiedt/Copilot-Demos/blob/main/Terraform-Labs/copilot-terraform-main/.instructions/4.%20additional%20resources.md) | Additional resources for participants to explore after the workshop.
 
 
 ## Project Structure
