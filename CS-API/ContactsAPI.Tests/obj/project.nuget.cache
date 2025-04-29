@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SOUSQCCo7eU=",
+  "dgSpecHash": "PGcxE4fEltQ=",
   "success": true,
-  "projectFilePath": "C:\\Git Repos\\CS-API-Auto\\ContactsAPI.Tests\\ContactsAPI.Tests.csproj",
+  "projectFilePath": "C:\\Git Repos\\Copilot-Demos-Updating\\Copilot-Demos\\CS-API\\ContactsAPI.Tests\\ContactsAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jasontiedt\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\jasontiedt\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
