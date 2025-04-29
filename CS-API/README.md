@@ -1,3 +1,11 @@
+# CSApiDemo Tasks
+- Add 3 new three endpoints of your choosing, with associated model, repository, and unit test updates.
+- Validation for endpoint calls
+- Use Copilot to determine if any testing edge cases are needed
+- Create Swagger file for API
+- Convert MSTest tests to xUnit tests
+
+
 # CSApiDemo
 
 This is a C# Web API project for managing contacts. It includes:
