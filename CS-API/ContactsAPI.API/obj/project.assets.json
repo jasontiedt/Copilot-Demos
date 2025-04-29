@@ -488,11 +488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git Repos\\CS-API-Auto\\ContactsAPI.API\\ContactsAPI.API.csproj",
+      "projectUniqueName": "C:\\Git Repos\\Copilot-Demos-Updating\\Copilot-Demos\\CS-API\\ContactsAPI.API\\ContactsAPI.API.csproj",
       "projectName": "ContactsAPI.API",
-      "projectPath": "C:\\Git Repos\\CS-API-Auto\\ContactsAPI.API\\ContactsAPI.API.csproj",
+      "projectPath": "C:\\Git Repos\\Copilot-Demos-Updating\\Copilot-Demos\\CS-API\\ContactsAPI.API\\ContactsAPI.API.csproj",
       "packagesPath": "C:\\Users\\jasontiedt\\.nuget\\packages\\",
-      "outputPath": "C:\\Git Repos\\CS-API-Auto\\ContactsAPI.API\\obj\\",
+      "outputPath": "C:\\Git Repos\\Copilot-Demos-Updating\\Copilot-Demos\\CS-API\\ContactsAPI.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

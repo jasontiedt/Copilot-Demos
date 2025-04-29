@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t3qd+d3gZFw=",
+  "dgSpecHash": "lk7iAU71KZg=",
   "success": true,
-  "projectFilePath": "C:\\Git Repos\\CS-API-Auto\\ContactsAPI.API\\ContactsAPI.API.csproj",
+  "projectFilePath": "C:\\Git Repos\\Copilot-Demos-Updating\\Copilot-Demos\\CS-API\\ContactsAPI.API\\ContactsAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jasontiedt\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.15\\microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",
     "C:\\Users\\jasontiedt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
